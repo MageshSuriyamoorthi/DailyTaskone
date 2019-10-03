@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57543" started-at="2019-10-03T18:49:43 IST" finished-at="2019-10-03T18:50:40 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57543" started-at="2019-10-03T18:49:43 IST" finished-at="2019-10-03T18:50:40 IST">
+      <class name="com.assessment.atmecs.testscript.AtmecsHome">
+        <test-method status="PASS" signature="browser_open()[pri:0, instance:com.assessment.atmecs.testscript.AtmecsHome@58a9760d]" name="browser_open" is-config="true" duration-ms="7590" started-at="2019-10-03T18:49:43 IST" finished-at="2019-10-03T18:49:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_open -->
+        <test-method status="PASS" signature="atmecs_home()[pri:0, instance:com.assessment.atmecs.testscript.AtmecsHome@58a9760d]" name="atmecs_home" is-config="true" duration-ms="14637" started-at="2019-10-03T18:49:50 IST" finished-at="2019-10-03T18:50:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atmecs_home -->
+        <test-method status="PASS" signature="moreinfo_validation()[pri:1, instance:com.assessment.atmecs.testscript.AtmecsHome@58a9760d]" name="moreinfo_validation" duration-ms="35252" started-at="2019-10-03T18:50:05 IST" finished-at="2019-10-03T18:50:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moreinfo_validation -->
+      </class> <!-- com.assessment.atmecs.testscript.AtmecsHome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite (0)" duration-ms="11077" started-at="2019-10-03T18:50:40 IST" finished-at="2019-10-03T18:50:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11077" started-at="2019-10-03T18:50:40 IST" finished-at="2019-10-03T18:50:51 IST">
+      <class name="com.assessment.atmecs.testscript.Explorenowpage">
+        <test-method status="PASS" signature="explorenow_validation()[pri:0, instance:com.assessment.atmecs.testscript.Explorenowpage@4c309d4d]" name="explorenow_validation" duration-ms="10605" started-at="2019-10-03T18:50:40 IST" finished-at="2019-10-03T18:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explorenow_validation -->
+        <test-method status="PASS" signature="close_Browser()[pri:0, instance:com.assessment.atmecs.testscript.Explorenowpage@4c309d4d]" name="close_Browser" is-config="true" duration-ms="472" started-at="2019-10-03T18:50:51 IST" finished-at="2019-10-03T18:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+        <test-method status="PASS" signature="extend_report()[pri:0, instance:com.assessment.atmecs.testscript.Explorenowpage@4c309d4d]" name="extend_report" is-config="true" duration-ms="0" started-at="2019-10-03T18:50:51 IST" finished-at="2019-10-03T18:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extend_report -->
+      </class> <!-- com.assessment.atmecs.testscript.Explorenowpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite name="Openmrs" duration-ms="0" started-at="2019-10-03T18:50:52 IST" finished-at="2019-10-03T18:50:52 IST">
+    <groups>
+    </groups>
+  </suite> <!-- Openmrs -->
+</testng-results>
